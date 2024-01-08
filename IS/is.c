@@ -580,10 +580,7 @@ void rank( int iteration )
 /*************             M  A  I  N             ****************/
 /*****************************************************************/
 
-main( argc, argv )
-    int argc;
-    char **argv;
-{
+int main(int argc, char **argv) {
 
     int             i, iteration, itemp;
     int		    nthreads = 1;
