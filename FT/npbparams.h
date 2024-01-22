@@ -8,7 +8,7 @@ c  in this directory. Do not modify it by hand.
 #define	NY	64
 #define	NZ	64
 #define	MAXDIM	64
-#define	NITER_DEFAULT	6
+#define	NITER_DEFAULT	6000
 #define	NTOTAL	262144
 #define	CONVERTDOUBLE	FALSE
 #define COMPILETIME "08 Jan 2024"

@@ -5,7 +5,7 @@ c  It sets the number of processors and the class of the NPB
 c  in this directory. Do not modify it by hand.
 */
 #define	CLASS	 'S'
-#define	M	24
+#define	M	48
 #define	CONVERTDOUBLE	FALSE
 #define COMPILETIME "08 Jan 2024"
 #define NPBVERSION "3.0 structured"
